@@ -1,0 +1,1 @@
+Nanti seluruh library Python akan ditulis di sini. Contohnya nanti: fastapi, yt-dlp, faster-whisper, ffmpeg-python, ollama, python-dotenv
